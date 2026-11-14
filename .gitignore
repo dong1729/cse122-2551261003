@@ -3,11 +3,7 @@
 !/.gitignore
 !/README.md
 !/SECURITY.md
-!/coursework/
-/coursework/*
-!/coursework/Quyen_01_HTML/
 !/bai01/
-!/coursework/Buoi 1/
 **/node_modules/
 **/__pycache__/
 **/.env
