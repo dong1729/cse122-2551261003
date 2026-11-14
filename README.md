@@ -2,23 +2,18 @@
 
 Student ID: 2551261003
 
-One repository for the Web course: lessons, notes, exercises, review questions, projects and graded assignments.
+## Textbook
 
-## Graded assignments
+[HTML textbook, exercises and review notes](coursework/Quyen_01_HTML/)
 
-- [bai01](bai01/ex01/index.html)
+Textbook work is updated as learning progresses. Projects are kept locally and are not included in the current submission.
 
-Assignment folders stay at the repository root, as required by the instructor. Submit this repository URL: https://github.com/dong1729/cse122-2551261003
+## Instructor assignments
 
-## Course materials
+- [Assignment 01](bai01/ex01/index.html)
 
-- [HTML textbook, chapters 01-11](coursework/Quyen_01_HTML/)
-- [Question bank](coursework/Quyen_01_HTML/Ngan_hang_cau_hoi/)
-- [Bookstore project](coursework/Quyen_01_HTML/du-an/)
-- [Class lessons](coursework/)
+The required repository name is cse122-2551261003. Assignment folders stay at the root: bai01/ex01/index.html. Select assignments in VS Code before pushing them.
 
-## Editing and syncing
-
-Edit the Web_Dev folder in the HK3-GD2 VS Code workspace, then click Push Web. The button syncs the full course to coursework/ and promotes baiXX assignment folders to the repository root. CPP OOP stays in its separate repository.
+Repository URL: https://github.com/dong1729/cse122-2551261003
 
 This repository is private. Ensure the instructor or grading service has access before submitting.
