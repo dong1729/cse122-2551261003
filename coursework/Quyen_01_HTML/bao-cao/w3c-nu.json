@@ -1,0 +1,44 @@
+[
+  {
+    "page": "trang-chu",
+    "version": "26.11.10",
+    "messages": []
+  },
+  {
+    "page": "danh-muc",
+    "version": "26.11.10",
+    "messages": []
+  },
+  {
+    "page": "chi-tiet",
+    "version": "26.11.10",
+    "messages": []
+  },
+  {
+    "page": "gio-hang",
+    "version": "26.11.10",
+    "messages": []
+  },
+  {
+    "page": "thanh-toan",
+    "version": "26.11.10",
+    "messages": []
+  },
+  {
+    "page": "lien-he",
+    "version": "26.11.10",
+    "messages": [
+      {
+        "type": "info",
+        "lastLine": 173,
+        "firstLine": 165,
+        "lastColumn": 9,
+        "subType": "warning",
+        "message": "Potentially bad value “allow-scripts allow-same-origin” for attribute “sandbox” on element “iframe”: Setting both “allow-scripts” and “allow-same-origin” is not recommended, because it effectively enables an embedded page to break out of all sandboxing.",
+        "extract": ">\n        <iframe\n          title=\"Bản đồ khu vực trung tâm thành phố Hồ Chí Minh, chỉ minh họa\"\n          src=\"https://www.openstreetmap.org/export/embed.html?bbox=106.695%2C10.77%2C106.705%2C10.78&amp;layer=mapnik\"\n          width=\"800\"\n          height=\"350\"\n          loading=\"lazy\"\n          sandbox=\"allow-scripts allow-same-origin\"\n          referrerpolicy=\"no-referrer\"\n        ></ifra",
+        "hiliteStart": 10,
+        "hiliteLength": 377
+      }
+    ]
+  }
+]

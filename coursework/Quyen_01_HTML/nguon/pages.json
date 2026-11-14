@@ -1,0 +1,98 @@
+{
+  "trang-chu": {
+    "title": "Sách cho sinh viên",
+    "description": "Khám phá giáo trình, sách chuyên ngành và kỹ năng tại nhà sách minh họa Sao Mai.",
+    "content_file": "noi-dung/trang-chu.html"
+  },
+  "danh-muc": {
+    "title": "Danh mục sách",
+    "description": "Giáo trình lập trình, giải thuật và dữ liệu; lọc và tìm kiếm sách Sao Mai.",
+    "content_file": "noi-dung/danh-muc.html"
+  },
+  "danh-muc-trang-2": {
+    "title": "Danh mục — Trang 2",
+    "description": "Trang thứ hai của danh mục minh họa.",
+    "content_file": "noi-dung/danh-muc-trang-2.html"
+  },
+  "chi-tiet": {
+    "title": "Lập trình Web căn bản",
+    "description": "Thông tin Lập trình Web căn bản, tác giả, giá, nội dung và đánh giá minh họa.",
+    "book": {
+      "id": "web",
+      "name": "Lập trình Web căn bản",
+      "author": "Nhóm Sao Mai",
+      "price": 98000,
+      "old": 120000,
+      "isbn": "9786040000001"
+    },
+    "content_file": "noi-dung/chi-tiet.html"
+  },
+  "sach/tu-duy-giai-thuat": {
+    "title": "Tư duy giải thuật",
+    "description": "Thông tin Tư duy giải thuật, tác giả, giá, nội dung và đánh giá minh họa.",
+    "book": {
+      "id": "algo",
+      "name": "Tư duy giải thuật",
+      "author": "Nhóm Sao Mai",
+      "price": 125000,
+      "old": 145000,
+      "isbn": "9786040000002"
+    },
+    "content_file": "noi-dung/sach/tu-duy-giai-thuat.html"
+  },
+  "sach/du-lieu-cho-nguoi-moi": {
+    "title": "Dữ liệu cho người mới",
+    "description": "Thông tin Dữ liệu cho người mới, tác giả, giá, nội dung và đánh giá minh họa.",
+    "book": {
+      "id": "data",
+      "name": "Dữ liệu cho người mới",
+      "author": "Nhóm Sao Mai",
+      "price": 110000,
+      "old": 130000,
+      "isbn": "9786040000003"
+    },
+    "content_file": "noi-dung/sach/du-lieu-cho-nguoi-moi.html"
+  },
+  "gioi-thieu-bien-tap": {
+    "title": "Lời giới thiệu biên tập",
+    "description": "Nguồn trích dẫn nội bộ tự biên soạn.",
+    "content_file": "noi-dung/gioi-thieu-bien-tap.html"
+  },
+  "gio-hang": {
+    "title": "Giỏ hàng",
+    "description": "Kiểm tra sách, số lượng và tổng tiền trong giỏ hàng minh họa.",
+    "robots": "noindex, follow",
+    "content_file": "noi-dung/gio-hang.html"
+  },
+  "thanh-toan": {
+    "title": "Thanh toán",
+    "description": "Điền thông tin nhận sách trong biểu mẫu thực hành, không tạo đơn thật.",
+    "robots": "noindex, follow",
+    "content_file": "noi-dung/thanh-toan.html"
+  },
+  "lien-he": {
+    "title": "Liên hệ",
+    "description": "Biểu mẫu liên hệ và bản đồ vị trí minh họa cho nhà sách Sao Mai.",
+    "content_file": "noi-dung/lien-he.html"
+  },
+  "en/catalog": {
+    "title": "Book catalog",
+    "description": "Browse sample programming and data books at Sao Mai bookstore.",
+    "lang": "en",
+    "content_file": "noi-dung/en/catalog.html"
+  },
+  "en/book": {
+    "title": "Web Programming Basics",
+    "description": "Sample book by the Sao Mai team. Paperback, 240 pages, 98,000 VND.",
+    "lang": "en",
+    "book": {
+      "id": "web",
+      "name": "Web Programming Basics",
+      "author": "Nhóm Sao Mai",
+      "price": 98000,
+      "old": 120000,
+      "isbn": "9786040000001"
+    },
+    "content_file": "noi-dung/en/book.html"
+  }
+}
