@@ -1,6 +1,6 @@
 # Bai 01 - Trang tho Bon mua
 
-> **Tệp đang làm:** [ex01/bai01.html](ex01/bai01.html). Đây là bản viết đơn giản để học HTML/CSS.
+> **Mã nguồn:** [ex01/bai01.html](ex01/bai01.html) · **Nội dung:** thuyết minh bài thực hành HTML/CSS.
 
 ## Bai nay lam gi
 
@@ -48,11 +48,3 @@ Hiển thị bài thơ Bốn mùa với ba khổ: khổ đầu và cuối màu x
 2. Kiểm tra đủ 9 câu, 3 khổ và 2 đường kẻ ngang.
 3. Thử đổi màu của `p`: khổ đầu và cuối đổi màu, khổ giữa vẫn đỏ vì có class riêng.
 4. Thử bỏ một thẻ `br` rồi quan sát hai câu thơ có còn xuống dòng không; sau đó khôi phục.
-
-## Ban don gian nay da thay doi gi
-
-Màu được viết trực tiếp bằng mã hex, không dùng biến CSS `:root` hay `var()`. Bỏ `calc()` và giảm số class để dễ theo dõi. Bản ban đầu dùng `article`; bản này dùng `div` theo yêu cầu luyện tập với thẻ cơ bản. Nếu cần đối chiếu các kỹ thuật riêng trong đề, xem lại yêu cầu của giảng viên.
-
-## Day len GitHub
-
-Bấm **Push Web...**, chọn `bai01`. Tệp chính hiện tại là `bai01/ex01/bai01.html`. Việc đẩy GitHub chưa phải là thao tác nộp trên LMS.
