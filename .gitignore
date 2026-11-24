@@ -4,6 +4,9 @@
 !/README.md
 !/SECURITY.md
 !/bai01/
+!/bai01/**
+!/bai02/
+!/bai02/**
 **/node_modules/
 **/__pycache__/
 **/.env
