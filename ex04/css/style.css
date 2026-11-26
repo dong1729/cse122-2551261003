@@ -1,0 +1,58 @@
+body {
+  background-color: white;
+  font-family: "Times New Roman", serif;
+  margin: 0;
+  padding: 20px;
+}
+
+.bai-viet {
+  max-width: 660px;
+  margin: 30px auto;
+}
+
+h1 {
+  color: #1565c0;
+  font-size: 26px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+h1 span {
+  display: block;
+  font-size: 0.7em;
+}
+
+.anh-da-nang {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin: 16px 0;
+  display: block;
+}
+
+.than-bai {
+  font-size: 16px;
+  line-height: 1.7;
+  text-align: justify;
+  margin: 16px 0;
+}
+
+.than-bai::first-letter {
+  float: left;
+  color: #c62828;
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 0.85;
+  padding: 0.1rem 0.35rem 0 0;
+}
+
+.tieu-de-phu {
+  background-color: #1565c0;
+  color: white;
+  text-align: right;
+  font-size: 14px;
+  font-weight: normal;
+  padding: 6px 10px;
+}
